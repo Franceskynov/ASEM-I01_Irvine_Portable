@@ -31,7 +31,7 @@ For run:
 
 For build:
 
-![Build asm file](https://raw.githubusercontent.com/Franceskynov/ASEM-I01_Irvine_Portable/master/ScreeenShots/build_edited.png)
+![Build asm file](https://raw.githubusercontent.com/Franceskynov/ASEM-I01_Irvine_Portable/master/ScreeenShots/build_edited.jpg)
 
 ```bash
 
@@ -44,7 +44,7 @@ cd <ASEM-I01_Irvine_Portable> folder
 asm32 helloWorld
 
 ```
-![Run program](https://raw.githubusercontent.com/Franceskynov/ASEM-I01_Irvine_Portable/master/ScreeenShots/run_edited.png) 
+![Run program](https://raw.githubusercontent.com/Franceskynov/ASEM-I01_Irvine_Portable/master/ScreeenShots/run_edited.jpg) 
 For run:
 
 ```bash
