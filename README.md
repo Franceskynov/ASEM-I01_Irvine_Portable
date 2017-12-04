@@ -1,5 +1,10 @@
 ASEM-I01_Irvine_Portable
 ========================
+## Downlad
+
+You can dowload from here:
+
+[ASEM-I01_Irvine_Portable.zip](https://github.com/Franceskynov/ASEM-I01_Irvine_Portable/releases/download/1.0/ASEM-I01_Irvine_Portable.zip)
 
 ## Usage
 
