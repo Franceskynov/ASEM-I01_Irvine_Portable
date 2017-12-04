@@ -7,7 +7,7 @@ This is unofficial version of Kip R. Irvine portable assembly.
 
 ```bash
 
-cd <ASEM-I01_Irvine_Portable>
+cd <ASEM-I01_Irvine_Portable> folder
 
 ```
 
@@ -29,12 +29,22 @@ For run:
 
 ## Example
 
+For build:
+
+![Build asm file](https://raw.githubusercontent.com/Franceskynov/ASEM-I01_Irvine_Portable/master/ScreeenShots/build_edited.png)
+
+```bash
+
+cd <ASEM-I01_Irvine_Portable> folder
+
+```
+
 ```bash
 
 asm32 helloWorld
 
 ```
-
+![Run program](https://raw.githubusercontent.com/Franceskynov/ASEM-I01_Irvine_Portable/master/ScreeenShots/run_edited.png) 
 For run:
 
 ```bash
